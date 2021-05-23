@@ -1,0 +1,38 @@
+.head{
+    height: 50px;
+
+}
+.content{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.navbar-brand {
+    float: left;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 50px;
+}   
+.navbar-nav{
+    float: right;
+    margin-right: 40px;
+}
+
+.nav-item{
+    float: left;
+    margin-right: 30px;
+}
+
+.content a{
+    color: white;
+}
+.nav-link:hover{
+    color: rgb(255, 166, 0);
+    text-decoration: underline;
+}
+.nav-link{
+    font-size: 20px;
+    line-height: 50px;
+}
+
+

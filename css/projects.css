@@ -1,0 +1,26 @@
+.projects{
+    height: 940px;
+    background:url(../images/hai04.jpg) ;
+    background-size: 100% ;
+}
+
+.projects-title{
+    position: absolute;
+    margin-top: 50px;
+}
+
+.projects-img{
+    padding-top: 200px;
+}
+.projects-img>a>img{
+    width: 250px;
+    height: 250px;
+    border-radius: 30%;
+    margin-top: 50px;
+    margin-left: 25px;
+    transition: all 2s;
+}
+.projects-img>a>img:hover{
+    transform: scale(1.2);
+}
+
